@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\hp\\Documents\\TTRE\\core-3.5.1.jar",
+        "c:\\Users\\hp\\Documents\\TTRE\\javase-3.5.1.jar",
+        "c:\\Users\\hp\\Downloads\\mysql-connector-java-5.0.8-bin.jar"
+    ]
+}
