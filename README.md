@@ -8,7 +8,7 @@ implemente opciones como
   pero al ejecutarlo en un jar no se guarda ni una sola imagen en los archivos del equipo)
   Al tomar asistencia es posible hacerlo media el escaneo del QR
 
-  Es necesario implementar todas las librerias para su ejecucion correcta
+  Es necesario implementar todas las librerias para su ejecucion correcta (los nombres de las librerias se encuentrabn el PROYECTOPP.iml)
 
   This project is part of an assignment of the subject of PROGRAMMING PARADIGMS I.
 The objective of the project is to generate an application that can take attendance, as well as counting signatures to a group of students.
@@ -20,3 +20,4 @@ implement options such as
   but when executed in a jar not a single image is saved in the computer files).
   When taking assistance it is possible to do it by QR scanning.
 For a great execution it is necessary to introduce in the project all the libraries found in this repository
+the names of the libraries are in the document PROYECTOPP.iml
